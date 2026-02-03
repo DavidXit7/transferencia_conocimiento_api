@@ -1,27 +1,4 @@
-//Enunciado 1
-
-// Listar la lista de usuarios
-// const peticionGetUsers = async () => {
-//     let users = await fetch ('http://localhost:3000/users')
-//     let dataUsers = await users.json()
-//     console.log(dataUsers);
-// }
-
-// peticionGetUsers();
-
-// Consultar la lista de publicaciones
-
-// const peticionGetPosts = async () => {
-//     let posts = await fetch ('http://localhost:3000/posts')
-//     let dataPosts = await posts.json()
-//     console.log(dataPosts);
-// }
-
-// peticionGetPosts();
-
-
-// Consultar publicaciones asociadas a usuarios activos
-
+// Enunciado 1
 
 const peticionUsuariosActivosConPosts = async () => {
     // Traer usuarios
