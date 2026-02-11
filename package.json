@@ -1,0 +1,21 @@
+{
+  "name": "transferencia_conocimiento_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "enunciado_1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidXit7/transferencia_conocimiento_api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/DavidXit7/transferencia_conocimiento_api/issues"
+  },
+  "homepage": "https://github.com/DavidXit7/transferencia_conocimiento_api#readme"
+}
